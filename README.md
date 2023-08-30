@@ -1,4 +1,4 @@
-### Hello! My name is Guilherme
+### Hey!👋 My name is Guilherme
 
 - 🧑‍💻 **FullStack Web Developer**
 - 🔭 Currently working on improve my programming skills even more each day
