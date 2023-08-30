@@ -1,7 +1,7 @@
-### Hey!👋 My name is Guilherme
+### Hey!👋 Welcome to my GitHub page!
 
 - 🧑‍💻 **FullStack Web Developer**
-- 🔭 Currently working on improve my programming skills even more each day
+- 🔭 Currently working on improve my programming skills even more each day!
 - 💬 Ask me about my last project
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/guilherme-ferreira-de-moraes/) or [E-mail](mailto:guiferreiramoraes@outlook.com)
 - 💻 My main technologies:
