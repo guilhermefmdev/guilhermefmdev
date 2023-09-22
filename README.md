@@ -2,17 +2,8 @@
 
 - 🧑‍💻 **FullStack Web Developer**
 - 🔭 Currently working on improve my programming skills even more each day!
-- 💬 Ask me about my last project
+- 💬 Ask me about my last project!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/guilherme-ferreira-de-moraes/) or [E-mail](mailto:guiferreiramoraes@outlook.com)
-- 💻 My main technologies:
-
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
              
 
